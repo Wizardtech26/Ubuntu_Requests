@@ -17,3 +17,4 @@ A respectful, community-minded Python tool for fetching and organizing images fr
 Install dependencies:
 ```bash
 pip install requests
+
